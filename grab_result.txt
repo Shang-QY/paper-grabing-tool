@@ -1,0 +1,512 @@
+SUCCESS	Under the Hood of DANE Mismanagement in SMTP
+	address: /conference/usenixsecurity22/presentation/lee
+SUCCESS	Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests
+	address: /conference/usenixsecurity22/presentation/chen-yi
+SUCCESS	Exploring the Unchartered Space of Container Registry Typosquatting
+	address: /conference/usenixsecurity22/presentation/liu-guannan
+SUCCESS	Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots
+	address: /conference/usenixsecurity22/presentation/kondracki
+SUCCESS	Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability
+	address: /conference/usenixsecurity22/presentation/zeng
+SUCCESS	In-Kernel Control-Flow Integrity on Commodity OSes using ARM Pointer Authentication
+	address: /conference/usenixsecurity22/presentation/yoo
+SUCCESS	Midas: Systematic Kernel TOCTTOU Protection
+	address: /conference/usenixsecurity22/presentation/bhattacharyya
+SUCCESS	LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution
+	address: /conference/usenixsecurity22/presentation/liu-jian
+SUCCESS	Mining Node.js Vulnerabilities via Object Dependence Graph and Query
+	address: /conference/usenixsecurity22/presentation/li-song
+SUCCESS	Mistrust Plugins You Must: A Large-Scale Study Of Malicious Plugins In WordPress Marketplaces
+	address: /conference/usenixsecurity22/presentation/kasturi
+SUCCESS	Web Cache Deception Escalates!
+	address: /conference/usenixsecurity22/presentation/mirheidari
+SUCCESS	FUGIO: Automatic Exploit Generation for PHP Object Injection Vulnerabilities
+	address: /conference/usenixsecurity22/presentation/park-sunnyeo
+SUCCESS	TLS-Anvil: Adapting Combinatorial Testing for TLS Libraries
+	address: /conference/usenixsecurity22/presentation/maehren
+SUCCESS	Open to a fault: On the passive compromise of TLS keys via transient errors
+	address: /conference/usenixsecurity22/presentation/sullivan
+SUCCESS	Trust Dies in Darkness: Shedding Light on Samsung&#039;s TrustZone Keymaster Design
+	address: /conference/usenixsecurity22/presentation/shakevsky
+SUCCESS	Breaking Bridgefy, again: Adopting libsignal is not enough
+	address: /conference/usenixsecurity22/presentation/albrecht
+SUCCESS	&quot;I feel invaded, annoyed, anxious and I may protect myself&quot;: Individuals&#039; Feelings about Online Tracking and their Protective Behaviour across Gender and Country
+	address: /conference/usenixsecurity22/presentation/coopamootoo
+SUCCESS	&quot;Like Lesbians Walking the Perimeter&quot;: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
+	address: /conference/usenixsecurity22/presentation/geeng
+SUCCESS	&quot;They Look at Vulnerability and Use That to Abuse You&#039;&#039;: Participatory Threat Modelling with Migrant Domestic Workers
+	address: /conference/usenixsecurity22/presentation/slupska-vulnerability
+SUCCESS	Networks of Care: Tech Abuse Advocates&#039; Digital Security Practices
+	address: /conference/usenixsecurity22/presentation/slupska-networks
+SUCCESS	How Long Do Vulnerabilities Live in the Code? A Large-Scale Empirical Measurement Study on FOSS Vulnerability Lifetimes
+	address: /conference/usenixsecurity22/presentation/alexopoulos
+SUCCESS	Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits
+	address: /conference/usenixsecurity22/presentation/suciu
+SUCCESS	OS-Aware Vulnerability Prioritization via Differential Severity Analysis
+	address: /conference/usenixsecurity22/presentation/wu-qiushi
+SUCCESS	Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs
+	address: /conference/usenixsecurity22/presentation/vadayath
+SUCCESS	Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope
+	address: /conference/usenixsecurity22/presentation/hiesgen
+SUCCESS	Many Roads Lead To Rome: How Packet Headers Influence DNS Censorship Measurement
+	address: /conference/usenixsecurity22/presentation/bhaskar
+SUCCESS	GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies
+	address: /conference/usenixsecurity22/presentation/harrity
+SUCCESS	OpenVPN is Open to VPN Fingerprinting
+	address: /conference/usenixsecurity22/presentation/xue-diwen
+SUCCESS	Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple&#039;s Count Mean Sketch in Practice
+	address: /conference/usenixsecurity22/presentation/gadotti
+SUCCESS	Poisoning Attacks to Local Differential Privacy Protocols for Key-Value Data
+	address: /conference/usenixsecurity22/presentation/wu-yongji
+SUCCESS	Communication-Efficient Triangle Counting under Local Differential Privacy
+	address: /conference/usenixsecurity22/presentation/imola
+SUCCESS	Twilight: A Differentially Private Payment Channel Network
+	address: /conference/usenixsecurity22/presentation/dotan
+SUCCESS	Watching the watchers: bias and vulnerability in remote proctoring software
+	address: /conference/usenixsecurity22/presentation/burgess
+SUCCESS	The Antrim County 2020 Election Incident: An Independent Forensic Investigation
+	address: /conference/usenixsecurity22/presentation/halderman
+SUCCESS	An Audit of Facebook&#039;s Political Ad Policy Enforcement
+	address: /conference/usenixsecurity22/presentation/lepochat
+SUCCESS	Building an Open, Robust, and Stable Voting-Based Domain Top List
+	address: /conference/usenixsecurity22/presentation/xie
+SUCCESS	AMD Prefetch Attacks through Power and Time
+	address: /conference/usenixsecurity22/presentation/lipp
+SUCCESS	Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring
+	address: /conference/usenixsecurity22/presentation/han
+SUCCESS	Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86
+	address: /conference/usenixsecurity22/presentation/wang-yingchen
+SUCCESS	Binoculars: Contention-Based Side-Channel Attacks Exploiting the Page Walker
+	address: /conference/usenixsecurity22/presentation/zhao-zirui
+SUCCESS	The Dangers of Human Touch: Fingerprinting Browser Extensions through User Actions
+	address: /conference/usenixsecurity22/presentation/solomos
+SUCCESS	Unleash the Simulacrum: Shifting Browser Realities for Robust Extension-Fingerprinting Prevention
+	address: /conference/usenixsecurity22/presentation/karami
+SUCCESS	Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World
+	address: /conference/usenixsecurity22/presentation/cherubin
+SUCCESS	QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework
+	address: /conference/usenixsecurity22/presentation/smith
+SUCCESS	Secure Poisson Regression
+	address: /conference/usenixsecurity22/presentation/kelkar
+SUCCESS	Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference
+	address: /conference/usenixsecurity22/presentation/huang-zhicong
+SUCCESS	Piranha: A GPU Platform for Secure Computation
+	address: /conference/usenixsecurity22/presentation/watson
+SUCCESS	OpenSSLNTRU: Faster post-quantum TLS key exchange
+	address: /conference/usenixsecurity22/presentation/bernstein
+SUCCESS	How Are Your Zombie Accounts? Understanding Users&#039; Practices and Expectations on Mobile App Account Deletion
+	address: /conference/usenixsecurity22/presentation/liu-yijing
+SUCCESS	&quot;How Do You Not Lose Friends?&quot;: Synthesizing a Design Space of Social Controls for Securing Shared Digital Resources Via Participatory Design Jams
+	address: /conference/usenixsecurity22/presentation/moju-igbene
+SUCCESS	Caring about Sharing: User Perceptions of Multiparty Data Sharing
+	address: /conference/usenixsecurity22/presentation/kacsmar
+SUCCESS	Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones
+	address: /conference/usenixsecurity22/presentation/koushki
+SUCCESS	Jenny: Securing Syscalls for PKU-based Memory Isolation Systems
+	address: /conference/usenixsecurity22/presentation/schrammel
+SUCCESS	Physical-Layer Attacks Against Pulse Width Modulation-Controlled Actuators
+	address: /conference/usenixsecurity22/presentation/dayanikli
+SUCCESS	Branch History Injection: On the Effectiveness of Hardware Mitigations Against Cross-Privilege Spectre-v2 Attacks
+	address: /conference/usenixsecurity22/presentation/barberis
+SUCCESS	TLB;DR: Enhancing TLB-based Attacks with TLB Desynchronized Reverse Engineering
+	address: /conference/usenixsecurity22/presentation/tatar
+SUCCESS	FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing
+	address: /conference/usenixsecurity22/presentation/kim
+SUCCESS	BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing
+	address: /conference/usenixsecurity22/presentation/garbelini
+SUCCESS	AmpFuzz: Fuzzing for Amplification DDoS Vulnerabilities
+	address: /conference/usenixsecurity22/presentation/krupp
+SUCCESS	FRAMESHIFTER: Security Implications of HTTP/2-to-HTTP/1 Conversion Anomalies
+	address: /conference/usenixsecurity22/presentation/jabiyev
+SUCCESS	Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers
+	address: /conference/usenixsecurity22/presentation/meng
+SUCCESS	Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment
+	address: /conference/usenixsecurity22/presentation/sharma-rahul
+SUCCESS	SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild
+	address: /conference/usenixsecurity22/presentation/young
+SUCCESS	&quot;OK, Siri&quot; or &quot;Hey, Google&quot;: Evaluating Voiceprint Distinctiveness via Content-based PROLE Score
+	address: /conference/usenixsecurity22/presentation/he-ruiwen
+SUCCESS	Helping hands: Measuring the impact of a large threat intelligence sharing community
+	address: /conference/usenixsecurity22/presentation/bouwman
+SUCCESS	A Large-scale Temporal Measurement of Android Malicious Apps: Persistence, Migration, and Lessons Learned
+	address: /conference/usenixsecurity22/presentation/shen-yun
+SUCCESS	A Large-scale and Longitudinal Measurement Study of DKIM Deployment
+	address: /conference/usenixsecurity22/presentation/wang-chuhan
+SUCCESS	A Large-scale Investigation into Geodifferences in Mobile Apps
+	address: /conference/usenixsecurity22/presentation/kumar
+SUCCESS	Morphuzz: Bending (Input) Space to Fuzz Virtual Devices
+	address: /conference/usenixsecurity22/presentation/bulekov
+SUCCESS	Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing
+	address: /conference/usenixsecurity22/presentation/scharnowski
+SUCCESS	MundoFuzz: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference
+	address: /conference/usenixsecurity22/presentation/myung
+SUCCESS	Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds
+	address: /conference/usenixsecurity22/presentation/shen-zekun
+SUCCESS	LTrack: Stealthy Tracking of Mobile Phones in LTE
+	address: /conference/usenixsecurity22/presentation/kotuliak
+SUCCESS	Watching the Watchers: Practical Video Identification Attack in LTE Networks
+	address: /conference/usenixsecurity22/presentation/bae
+SUCCESS	DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices
+	address: /conference/usenixsecurity22/presentation/park-cheoljun
+SUCCESS	Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging
+	address: /conference/usenixsecurity22/presentation/leu
+SUCCESS	SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost
+	address: /conference/usenixsecurity22/presentation/chandran
+SUCCESS	Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors
+	address: /conference/usenixsecurity22/presentation/stevens
+SUCCESS	Label Inference Attacks Against Vertical Federated Learning
+	address: /conference/usenixsecurity22/presentation/fu-chong
+SUCCESS	FLAME: Taming Backdoors in Federated Learning
+	address: /conference/usenixsecurity22/presentation/nguyen
+SUCCESS	Mitigating Membership Inference Attacks by Self-Distillation Through a Novel Ensemble Architecture
+	address: /conference/usenixsecurity22/presentation/tang
+SUCCESS	Synthetic Data – Anonymisation Groundhog Day
+	address: /conference/usenixsecurity22/presentation/stadler
+SUCCESS	Attacks on Deidentification&#039;s Defenses
+	address: /conference/usenixsecurity22/presentation/cohen
+SUCCESS	Birds of a Feather Flock Together: How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes
+	address: /conference/usenixsecurity22/presentation/guo
+SUCCESS	Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses
+	address: /conference/usenixsecurity22/presentation/zaheri
+SUCCESS	FReD: Identifying File Re-Delegation in Android System Services
+	address: /conference/usenixsecurity22/presentation/gorski
+SUCCESS	GhostTouch: Targeted Attacks on Touchscreens without Physical Touch
+	address: /conference/usenixsecurity22/presentation/wang-kai
+SUCCESS	SARA: Secure Android Remote Authorization
+	address: /conference/usenixsecurity22/presentation/imran
+SUCCESS	FOAP: Fine-Grained Open-World Android App Fingerprinting
+	address: /conference/usenixsecurity22/presentation/li-jianfeng
+SUCCESS	Identity Confusion in WebView-based Mobile App-in-app Ecosystems
+	address: /conference/usenixsecurity22/presentation/zhang-lei
+SUCCESS	Automated Detection of Automated Traffic
+	address: /conference/usenixsecurity22/presentation/herley
+SUCCESS	Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach
+	address: /conference/usenixsecurity22/presentation/liu-ruofan
+SUCCESS	Phish in Sheep&#039;s Clothing: Exploring the Authentication Pitfalls of Browser Fingerprinting
+	address: /conference/usenixsecurity22/presentation/lin-xu
+SUCCESS	DeepPhish: Understanding User Trust Towards Artificially Generated Profiles in Online Social Networks
+	address: /conference/usenixsecurity22/presentation/mink
+SUCCESS	Hand Me Your PIN! Inferring ATM PINs of Users Typing with a Covered Hand
+	address: /conference/usenixsecurity22/presentation/cardaioli
+SUCCESS	Estimating Incidental Collection in Foreign Intelligence Surveillance: Large-Scale Multiparty Private Set Intersection with Union and Sum
+	address: /conference/usenixsecurity22/presentation/kulshrestha
+SUCCESS	Constant-weight PIR: Single-round Keyword PIR via Constant-weight Equality Operators
+	address: /conference/usenixsecurity22/presentation/mahdavi
+SUCCESS	Incremental Offline/Online PIR
+	address: /conference/usenixsecurity22/presentation/ma
+SUCCESS	GPU-accelerated PIR with Client-Independent Preprocessing for Large-Scale Applications
+	address: /conference/usenixsecurity22/presentation/gunther
+SUCCESS	Increasing Adversarial Uncertainty to Scale Private Similarity Testing
+	address: /conference/usenixsecurity22/presentation/hua
+SUCCESS	Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web
+	address: /conference/usenixsecurity22/presentation/sudhodanan
+SUCCESS	Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission
+	address: /conference/usenixsecurity22/presentation/senol
+SUCCESS	Might I Get Pwned: A Second Generation Compromised Credential Checking Service
+	address: /conference/usenixsecurity22/presentation/pal
+SUCCESS	Why Users (Don&#039;t) Use Password Managers at a Large Educational Institution
+	address: /conference/usenixsecurity22/presentation/mayer
+SUCCESS	Gossamer: Securely Measuring Password-based Logins
+	address: /conference/usenixsecurity22/presentation/sanusi-bohuk
+SUCCESS	DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems
+	address: /conference/usenixsecurity22/presentation/zhou-ce
+SUCCESS	Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles
+	address: /conference/usenixsecurity22/presentation/hallyburton
+SUCCESS	SAID: State-aware Defense Against Injection Attacks on In-vehicle Network
+	address: /conference/usenixsecurity22/presentation/xue-lei
+SUCCESS	Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols
+	address: /conference/usenixsecurity22/presentation/yu-le
+SUCCESS	Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition
+	address: /conference/usenixsecurity22/presentation/yan
+SUCCESS	Provably-Safe Multilingual Software Sandboxing using WebAssembly
+	address: /conference/usenixsecurity22/presentation/bosamiya
+SUCCESS	Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches
+	address: /conference/usenixsecurity22/presentation/shi
+SUCCESS	Experimental Security Analysis of the App Model in Business Collaboration Platforms
+	address: /conference/usenixsecurity22/presentation/chen-yunang-experimental
+SUCCESS	SWAPP: A New Programmable Playground for Web Application Security
+	address: /conference/usenixsecurity22/presentation/chinprutthiwong
+SUCCESS	The Security Lottery: Measuring Client-Side Web Security Inconsistencies
+	address: /conference/usenixsecurity22/presentation/roth
+SUCCESS	PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier
+	address: /conference/usenixsecurity22/presentation/xiang
+SUCCESS	Transferring Adversarial Robustness Through Robust Representation Matching
+	address: /conference/usenixsecurity22/presentation/vaishnavi
+SUCCESS	How Machine Learning Is Solving the Binary Function Similarity Problem
+	address: /conference/usenixsecurity22/presentation/marcelli
+SUCCESS	Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks
+	address: /conference/usenixsecurity22/presentation/li-huiying
+SUCCESS	DnD: A Cross-Architecture Deep Neural Network Decompiler
+	address: /conference/usenixsecurity22/presentation/wu-ruoyu
+SUCCESS	Measurement by Proxy: On the Accuracy of Online Marketplace Measurements
+	address: /conference/usenixsecurity22/presentation/cuevas
+SUCCESS	Behind the Tube: Exploitative Monetization of Content on YouTube
+	address: /conference/usenixsecurity22/presentation/chu
+SUCCESS	When Sally Met Trackers: Web Tracking From the Users&#039; Perspective
+	address: /conference/usenixsecurity22/presentation/dambra
+SUCCESS	How to Peel a Million: Validating and Expanding Bitcoin Clusters
+	address: /conference/usenixsecurity22/presentation/kappos
+SUCCESS	RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices
+	address: /conference/usenixsecurity22/presentation/he-yi
+SUCCESS	GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices)
+	address: /conference/usenixsecurity22/presentation/aliaj
+SUCCESS	ReZone: Disarming TrustZone with TEE Privilege Reduction
+	address: /conference/usenixsecurity22/presentation/cerdeira
+SUCCESS	Holistic Control-Flow Protection on Real-Time Embedded Systems with Kage
+	address: /conference/usenixsecurity22/presentation/du
+SUCCESS	Orca: Blocklisting in Sender-Anonymous Messaging
+	address: /conference/usenixsecurity22/presentation/tyagi
+SUCCESS	Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning
+	address: /conference/usenixsecurity22/presentation/jain
+SUCCESS	Hecate: Abuse Reporting in Secure Messengers with Sealed Sender
+	address: /conference/usenixsecurity22/presentation/issa
+SUCCESS	End-to-Same-End Encryption: Modularly Augmenting an App with an Efficient, Portable, and Blind Cloud Storage
+	address: /conference/usenixsecurity22/presentation/chen-long
+SUCCESS	Omnes pro uno: Practical Multi-Writer Encrypted Database
+	address: /conference/usenixsecurity22/presentation/wang-jiafan
+SUCCESS	Faster Yet Safer: Logging System Via Fixed-Key Blockcipher
+	address: /conference/usenixsecurity22/presentation/hoang
+SUCCESS	IHOP: Improved Statistical Query Recovery against Searchable Symmetric Encryption through Quadratic Optimization
+	address: /conference/usenixsecurity22/presentation/oya
+SUCCESS	Dynamic Searchable Encryption with Optimal Search in the Presence of Deletions
+	address: /conference/usenixsecurity22/presentation/chamani
+SUCCESS	ALASTOR: Reconstructing the Provenance of Serverless Intrusions
+	address: /conference/usenixsecurity22/presentation/datta
+SUCCESS	Back-Propagating System Dependency Impact for Attack Investigation
+	address: /conference/usenixsecurity22/presentation/fang
+SUCCESS	Ground Truth for Binary Disassembly is Not Easy
+	address: /conference/usenixsecurity22/presentation/pang-chengbin
+SUCCESS	FreeWill: Automatically Diagnosing Use-after-free Bugs via Reference Miscounting Detection on Binaries
+	address: /conference/usenixsecurity22/presentation/he-liang
+SUCCESS	PolyCruise: A Cross-Language Dynamic Information Flow Analysis
+	address: /conference/usenixsecurity22/presentation/li-wen
+SUCCESS	SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis
+	address: /conference/usenixsecurity22/presentation/chen-ju
+SUCCESS	CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL
+	address: /conference/usenixsecurity22/presentation/solt
+SUCCESS	FlowMatrix: GPU-Assisted Information-Flow Analysis through Matrix-Based Representation
+	address: /conference/usenixsecurity22/presentation/ji
+SUCCESS	Bedrock: Programmable Network Support for Secure RDMA Systems
+	address: /conference/usenixsecurity22/presentation/xing
+SUCCESS	Creating a Secure Underlay for the Internet
+	address: /conference/usenixsecurity22/presentation/birge-lee
+SUCCESS	Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks
+	address: /conference/usenixsecurity22/presentation/feng
+SUCCESS	VerLoc: Verifiable Localization in Decentralized Systems
+	address: /conference/usenixsecurity22/presentation/kohls
+SUCCESS	Towards More Robust Keyword Spotting for Voice Assistants
+	address: /conference/usenixsecurity22/presentation/ahmed
+SUCCESS	Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era
+	address: /conference/usenixsecurity22/presentation/li-changjiang
+SUCCESS	Who Are You (I Really Wanna Know)? Detecting Audio DeepFakes Through Vocal Tract Reconstruction
+	address: /conference/usenixsecurity22/presentation/blue
+SUCCESS	DeepDi: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly
+	address: /conference/usenixsecurity22/presentation/yu-sheng
+SUCCESS	RE-Mind: a First Look Inside the Mind of a Reverse Engineer
+	address: /conference/usenixsecurity22/presentation/mantovani
+SUCCESS	Characterizing the Security of Github CI Workflows
+	address: /conference/usenixsecurity22/presentation/koishybayev
+SUCCESS	Decomperson: How Humans Decompile and What We Can Learn From It
+	address: /conference/usenixsecurity22/presentation/burk
+SUCCESS	99% False Positives: A Qualitative Study of SOC Analysts&#039; Perspectives on Security Alarms
+	address: /conference/usenixsecurity22/presentation/alahmadi
+SUCCESS	HyperDegrade: From GHz to MHz Effective CPU Frequencies
+	address: /conference/usenixsecurity22/presentation/aldaya
+SUCCESS	Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud
+	address: /conference/usenixsecurity22/presentation/mehta
+SUCCESS	Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks
+	address: /conference/usenixsecurity22/presentation/townley
+SUCCESS	Don&#039;t Mesh Around: Side-Channel Attacks and Mitigations on Mesh Interconnects
+	address: /conference/usenixsecurity22/presentation/dai
+SUCCESS	WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking
+	address: /conference/usenixsecurity22/presentation/siby
+SUCCESS	Automating Cookie Consent and GDPR Violation Detection
+	address: /conference/usenixsecurity22/presentation/bollinger
+SUCCESS	Khaleesi: Breaker of Advertising and Tracking Request Chains
+	address: /conference/usenixsecurity22/presentation/iqbal
+SUCCESS	Practical Data Access Minimization in Trigger-Action Platforms
+	address: /conference/usenixsecurity22/presentation/chen-yunang-practical
+SUCCESS	Shuffle-based Private Set Union: Faster and More Secure
+	address: /conference/usenixsecurity22/presentation/jia
+SUCCESS	Polynomial Commitment with a One-to-Many Prover and Applications
+	address: /conference/usenixsecurity22/presentation/zhang-jiaheng
+SUCCESS	ppSAT: Towards Two-Party Private SAT Solving
+	address: /conference/usenixsecurity22/presentation/luo
+SUCCESS	Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments
+	address: /conference/usenixsecurity22/presentation/srinivasan
+SUCCESS	COMRace: Detecting Data Race Vulnerabilities in COM Objects
+	address: /conference/usenixsecurity22/presentation/gu-fangming
+SUCCESS	MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components
+	address: /conference/usenixsecurity22/presentation/woo
+SUCCESS	Loki: Hardening Code Obfuscation Against Automated Attacks
+	address: /conference/usenixsecurity22/presentation/schloegel
+SUCCESS	Oops... Code Execution and Content Spoofing: The First Comprehensive Analysis of OpenDocument Signatures
+	address: /conference/usenixsecurity22/presentation/rohlmann
+SUCCESS	Playing Without Paying: Detecting Vulnerable Payment Verification in Native Binaries of Unity Mobile Games
+	address: /conference/usenixsecurity22/presentation/zuo
+SUCCESS	Repurposing Segmentation as a Practical LVI-NULL Mitigation in SGX
+	address: /conference/usenixsecurity22/presentation/giner
+SUCCESS	A Hardware-Software Co-design for Efficient Intra-Enclave Isolation
+	address: /conference/usenixsecurity22/presentation/gu-jinyu
+SUCCESS	SGXFuzz: Efficiently Synthesizing Nested Structures for SGX Enclave Fuzzing
+	address: /conference/usenixsecurity22/presentation/cloosters
+SUCCESS	SecSMT: Securing SMT Processors against Contention-Based Covert Channels
+	address: /conference/usenixsecurity22/presentation/taram
+SUCCESS	Rendering Contention Channel Made Practical in Web Browsers
+	address: /conference/usenixsecurity22/presentation/wu-shujiang
+SUCCESS	SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel
+	address: /conference/usenixsecurity22/presentation/zou
+SUCCESS	TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities
+	address: /conference/usenixsecurity22/presentation/kande
+SUCCESS	Fuzzing Hardware Like Software
+	address: /conference/usenixsecurity22/presentation/trippel
+SUCCESS	Stateful Greybox Fuzzing
+	address: /conference/usenixsecurity22/presentation/ba
+SUCCESS	StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing
+	address: /conference/usenixsecurity22/presentation/zhao-bodong
+SUCCESS	How to Abuse and Fix Authenticated Encryption Without Key Commitment
+	address: /conference/usenixsecurity22/presentation/albertini
+SUCCESS	Private Signaling
+	address: /conference/usenixsecurity22/presentation/madathil
+SUCCESS	Batched Differentially Private Information Retrieval
+	address: /conference/usenixsecurity22/presentation/albab
+SUCCESS	Practical Privacy-Preserving Authentication for SSH
+	address: /conference/usenixsecurity22/presentation/roy
+SUCCESS	One-off Disclosure Control by Heterogeneous Generalization
+	address: /conference/usenixsecurity22/presentation/gkountouna
+SUCCESS	Understanding and Improving Usability of Data Dashboards for Simplified Privacy Control of Voice Assistant Data
+	address: /conference/usenixsecurity22/presentation/sharma-vandit
+SUCCESS	Security and Privacy Perceptions of Third-Party Application Access for Google Accounts
+	address: /conference/usenixsecurity22/presentation/balash
+SUCCESS	Empirical Understanding of Deletion Privacy: Experiences, Expectations, and Measures
+	address: /conference/usenixsecurity22/presentation/minaei
+SUCCESS	Security at the End of the Tunnel: The Anatomy of VPN Mental Models Among Experts and Non-Experts in a Corporate Context
+	address: /conference/usenixsecurity22/presentation/binkhorst
+SUCCESS	How and Why People Use Virtual Private Networks
+	address: /conference/usenixsecurity22/presentation/dutkowska-zuk
+SUCCESS	CamShield: Securing Smart Cameras through Physical Replication and Isolation
+	address: /conference/usenixsecurity22/presentation/wang-zhiwei
+SUCCESS	SCRAPS: Scalable Collective Remote Attestation for Pub-Sub IoT Networks with Untrusted Proxy Verifier
+	address: /conference/usenixsecurity22/presentation/petzi
+SUCCESS	An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs
+	address: /conference/usenixsecurity22/presentation/sathaye
+SUCCESS	Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage
+	address: /conference/usenixsecurity22/presentation/manandhar
+SUCCESS	MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses
+	address: /conference/usenixsecurity22/presentation/shekari
+SUCCESS	AutoDA: Automated Decision-based Iterative Adversarial Attacks
+	address: /conference/usenixsecurity22/presentation/fu-qi
+SUCCESS	Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks
+	address: /conference/usenixsecurity22/presentation/shan
+SUCCESS	Teacher Model Fingerprinting Attacks Against Transfer Learning
+	address: /conference/usenixsecurity22/presentation/chen-yufei
+SUCCESS	Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation
+	address: /conference/usenixsecurity22/presentation/pan-hidden
+SUCCESS	PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning
+	address: /conference/usenixsecurity22/presentation/liu-hongbin
+SUCCESS	Double Trouble: Combined Heterogeneous Attacks on Non-Inclusive Cache Hierarchies
+	address: /conference/usenixsecurity22/presentation/purnal
+SUCCESS	QuORAM: A Quorum-Replicated Fault Tolerant ORAM Datastore
+	address: /conference/usenixsecurity22/presentation/maiyya
+SUCCESS	Post-Quantum Cryptography with Contemporary Co-Processors: Beyond Kronecker, Schönhage-Strassen &amp; Nussbaumer
+	address: /conference/usenixsecurity22/presentation/bos
+SUCCESS	FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing
+	address: /conference/usenixsecurity22/presentation/zhang-zenong
+SUCCESS	Tightly Seal Your Sensitive Pointers with PACTight
+	address: /conference/usenixsecurity22/presentation/ismail
+SUCCESS	Total Eclipse of the Heart – Disrupting the InterPlanetary File System
+	address: /conference/usenixsecurity22/presentation/prunster
+SUCCESS	PrivGuard: Privacy Regulation Compliance Made Easier
+	address: /conference/usenixsecurity22/presentation/wang-lun
+SUCCESS	Stick It to The Man: Correcting for Non-Cooperative Behavior of Subjects in Experiments on Social Networks
+	address: /conference/usenixsecurity22/presentation/clary
+SUCCESS	OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR
+	address: /conference/usenixsecurity22/presentation/trimananda
+SUCCESS	Half-Double: Hammering From the Next Row Over
+	address: /conference/usenixsecurity22/presentation/kogler-half-double
+SUCCESS	RETBLEED: Arbitrary Speculative Code Execution with Return Instructions
+	address: /conference/usenixsecurity22/presentation/wikner
+SUCCESS	PISTIS: Trusted Computing Architecture for Low-end Embedded Systems
+	address: /conference/usenixsecurity22/presentation/grisafi
+SUCCESS	Rapid Prototyping for Microarchitectural Attacks
+	address: /conference/usenixsecurity22/presentation/easdon
+SUCCESS	ProFactory: Improving IoT Security via Formalized Protocol Customization
+	address: /conference/usenixsecurity22/presentation/wang-fei
+SUCCESS	Using Trātṛ to tame Adversarial Synchronization
+	address: /conference/usenixsecurity22/presentation/patel
+SUCCESS	ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture
+	address: /conference/usenixsecurity22/presentation/borrello
+SUCCESS	SAPIC+: protocol verifiers of the world, unite!
+	address: /conference/usenixsecurity22/presentation/cheval
+SUCCESS	On the Security Risks of AutoML
+	address: /conference/usenixsecurity22/presentation/pang-ren
+SUCCESS	Dos and Don&#039;ts of Machine Learning in Computer Security
+	address: /conference/usenixsecurity22/presentation/arp
+SUCCESS	Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis
+	address: /conference/usenixsecurity22/presentation/pan-exploring
+SUCCESS	On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning
+	address: /conference/usenixsecurity22/presentation/thudi
+SUCCESS	&quot;The Same PIN, Just Longer&quot;: On the (In)Security of Upgrading PINs from 4 to 6 Digits
+	address: /conference/usenixsecurity22/presentation/munyendo
+SUCCESS	Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples
+	address: /conference/usenixsecurity22/presentation/kaur
+SUCCESS	Investigating State-of-the-Art Practices for Fostering Subjective Trust in Online Voting through Interviews
+	address: /conference/usenixsecurity22/presentation/marky
+SUCCESS	Electronic Monitoring Smartphone Apps: An Analysis of Risks from Technical, Human-Centered, and Legal Perspectives
+	address: /conference/usenixsecurity22/presentation/owens
+SUCCESS	MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties
+	address: /conference/usenixsecurity22/presentation/chen-guoxing
+SUCCESS	Elasticlave: An Efficient Memory Model for Enclaves
+	address: /conference/usenixsecurity22/presentation/yu-jason
+SUCCESS	SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX
+	address: /conference/usenixsecurity22/presentation/chen-yuan
+SUCCESS	Minefield: A Software-only Protection for SGX Enclaves against DVFS Attacks
+	address: /conference/usenixsecurity22/presentation/kogler-minefield
+SUCCESS	Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers
+	address: /conference/usenixsecurity22/presentation/turonova
+SUCCESS	RegexScalpel: Regular Expression Denial of Service (ReDoS) Defense by Localize-and-Fix
+	address: /conference/usenixsecurity22/presentation/li-yeting
+SUCCESS	Anycast Agility: Network Playbooks to Fight DDoS
+	address: /conference/usenixsecurity22/presentation/rizvi
+SUCCESS	Regulator: Dynamic Analysis to Detect ReDoS
+	address: /conference/usenixsecurity22/presentation/mclaughlin
+SUCCESS	Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies
+	address: /conference/usenixsecurity22/presentation/leung
+SUCCESS	Zero-Knowledge Middleboxes
+	address: /conference/usenixsecurity22/presentation/grubbs
+SUCCESS	Efficient Representation of Numerical Optimization Problems for SNARKs
+	address: /conference/usenixsecurity22/presentation/angel
+SUCCESS	Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets
+	address: /conference/usenixsecurity22/presentation/ozdemir
+SUCCESS	Detecting Logical Bugs of DBMS with Coverage-based Guidance
+	address: /conference/usenixsecurity22/presentation/liang
+SUCCESS	Augmenting Decompiler Output with Learned Variable Names and Types
+	address: /conference/usenixsecurity22/presentation/chen-qibin
+SUCCESS	Debloating Address Sanitizer
+	address: /conference/usenixsecurity22/presentation/zhang-yuchen
+SUCCESS	Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
+	address: /conference/usenixsecurity22/presentation/zhou-shunfan
+SUCCESS	Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel
+	address: /conference/usenixsecurity22/presentation/maia
+SUCCESS	Lamphone: Passive Sound Recovery from a Desk Lamp&#039;s Light Bulb Vibrations
+	address: /conference/usenixsecurity22/presentation/nassi
+SUCCESS	Automated Side Channel Analysis of Media Software with Manifold Learning
+	address: /conference/usenixsecurity22/presentation/yuan-yuanyuan
+SUCCESS	Lend Me Your Ear: Passive Remote Physical Side Channels on PCs
+	address: /conference/usenixsecurity22/presentation/genkin
+SUCCESS	Stalloris: RPKI Downgrade Attack
+	address: /conference/usenixsecurity22/presentation/hlavacek
+SUCCESS	XDRI Attacks - and - How to Enhance Resilience of Residential Routers
+	address: /conference/usenixsecurity22/presentation/jeitner
+SUCCESS	V&#039;CER: Efficient Certificate Validation in Constrained Networks
+	address: /conference/usenixsecurity22/presentation/koisser
+SUCCESS	Themis: Accelerating the Detection of Route Origin Hijacking by Distinguishing Legitimate and Illegitimate MOAS
+	address: /conference/usenixsecurity22/presentation/qin
+SUCCESS	ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models
+	address: /conference/usenixsecurity22/presentation/liu-yugeng
+SUCCESS	Inference Attacks Against Graph Neural Networks
+	address: /conference/usenixsecurity22/presentation/zhang-zhikun
+SUCCESS	Membership Inference Attacks and Defenses in Neural Network Pruning
+	address: /conference/usenixsecurity22/presentation/yuan-xiaoyong
+SUCCESS	Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models
+	address: /conference/usenixsecurity22/presentation/mehnaz
